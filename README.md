@@ -4,12 +4,15 @@
 git clone https://github.com/vert5x-git/snoser
 ```
 # Затем заходим в нужную папку
-```cd snoser
+```python
+cd snoser
 ```
 # Устанавливаем зависимости 
-```pip install requirements.txt
+```python
+pip install requirements.txt
 ```
 # Запускаем сносер
-```python3 snos.py
+```python
+python3 snos.py
 ```
 создал @usernihil допилил @l_hemilton
